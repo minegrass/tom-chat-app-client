@@ -1,5 +1,10 @@
 Simple socket io + react real time chatting app 
 
+tech:  
+redux  
+tailwindcss  
+typescript  
+
 Join Room Page
 ![image](https://user-images.githubusercontent.com/25462796/207221360-162fed18-0b38-4cc2-88d4-5f15f26de759.png)
 
